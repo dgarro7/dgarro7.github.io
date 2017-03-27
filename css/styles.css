@@ -837,11 +837,12 @@ h3 {
   margin-bottom: 80px;
 }
 
-.ind-description-name {
+/*.ind-description-name {
   margin-top: 20px;
   font-size: 1.25em;
   font-weight: 300;
-}
+
+}*/
 
 .button_container {
   position: fixed;
