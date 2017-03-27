@@ -829,7 +829,8 @@ h3 {
 
 .ind-project-name {
   margin-top: 0px;
-}
+  font-size: 1em;
+} 
 
 .project-margin-top {
   margin-top: 80px;
@@ -838,6 +839,7 @@ h3 {
 
 .ind-description-name {
   margin-top: 20px;
+  font-size: 1.5em;
 }
 
 .button_container {
