@@ -839,7 +839,8 @@ h3 {
 
 .ind-description-name {
   margin-top: 20px;
-  font-size: 1.5em;
+  font-size: 1.25em;
+  font-weight: 300;
 }
 
 .button_container {
